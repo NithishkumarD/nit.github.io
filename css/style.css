@@ -4,14 +4,16 @@
     --red: #CE5A67;
     --green: #9FBB73;
 }
-
+html{
+    background-color: black;
+}
 body,h2{
     margin: 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .landing{
-    background-image:url('/Media/bg.JPG');
+    background-image:url('../Media/bg.JPG');
 /*     background-color: brown; */
     background-size: cover;
     background-position: center;
