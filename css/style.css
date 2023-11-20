@@ -11,7 +11,7 @@ body,h2{
 }
 
 .landing{
-    background-image:url('../Media/bg.jpg');
+    background-image:url('/Media/bg.JPG');
 /*     background-color: brown; */
     background-size: cover;
     background-position: center;
